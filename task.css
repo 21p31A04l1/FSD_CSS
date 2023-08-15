@@ -1,0 +1,75 @@
+.aa{
+	width: 1000px;
+	height: 500px;
+	background-color: whitesmoke
+}
+.bb{
+	width: 200px;
+	height: 400px;
+	border-radius: 20px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 90px;
+	background-color: white
+
+}
+.cc{
+	width: 200px;
+	height: 400px;
+	border-radius: 20px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 90px;
+	background-color: white
+
+}
+.dd{
+	width: 200px;
+	height: 400px;
+	border-radius: 20px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 90px;
+	background-color: white
+}
+.ee{
+	color: green;
+	margin-top: 50px;
+	font-size: 70px
+
+
+}
+.ff{
+	color: skyblue;
+	margin-top: 50px;
+	font-size: 70px
+	
+}
+.gg{
+	color: mediumslateblue;
+	margin-top: 50px;
+	font-size: 70px
+	
+}
+.hh{
+	background-color: blue;
+	border-radius: 30px;
+	font-size: 20px;
+
+}
+.ii{
+	background-color: blue;
+	border-radius: 30px;
+	font-size: 20px;
+	
+}
+.jj{
+	background-color: blue;
+	border-radius: 30px;
+	font-size: 20px;
+	
+}
+p{
+	border-bottom:  2px outset blue;
+	padding: 10px;
+}
